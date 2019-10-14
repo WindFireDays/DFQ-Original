@@ -18,4 +18,5 @@ And DFQ use a code hinting plugin named [EmmyLua](https://github.com/EmmyLua/VSC
 
 ## About
 
-You can learn more in [my blog](https://musoucrow.github.io).
+* You can learn more in [my blog](https://musoucrow.github.io).
+* And now I need a job, you can contact me with 939549924@qq.com. 
