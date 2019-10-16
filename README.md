@@ -1,3 +1,4 @@
+dnf 核心功能开源
 # DFQ-Original
 
 DFQ-Original is a basic version of [Dungeon & Fighter·Quest (DFQ)](https://tieba.baidu.com/f?kw=%B0%A2%C0%AD%B5%C2%D3%A2%D0%DB%B4%AB), it's a coterie game of [DNF](http://dnf.qq.com).
